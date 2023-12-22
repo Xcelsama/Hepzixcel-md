@@ -58,7 +58,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
 ➤FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Xcelsama/Excel-MD-V2.0/fork"><img title="Excel-MD-V2" src="https://img.shields.io/badge/FORK Excel-MD-V2.0?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Xcelsama/Excel-MD-V2.0/fork"><img title="Excel-MD-V2" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
 
 ➤  GET SESSION  ID FOR EXCEL-MD-V2
     
