@@ -57,13 +57,13 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
     
 ➤FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Xcelsama/EXCEL-MD-V2"><img title="Excel-MD-V2" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Xcelsama/Excel-MD-V2.0"><img title="Excel-MD-V2.0" src="https://img.shields.io/badge/FORK?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ➤  GET SESSION  ID FOR EXCEL-MD-V2
     
     
-<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2QRSCAN?s=app' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2QRSCAN?s=app' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr--100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
 ＊DEPLOYMENT METHODS
 
