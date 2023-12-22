@@ -1,102 +1,96 @@
+</h1> 
+<p align="center">To learn how to get session id scroll to end of page..
+ 
+ It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
-<h1 align="center"> sɪɢᴍᴀ ᴹᴰ </h1>
+<p align="center">
+  <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
+    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
+  </a>
+</p>
+   <p align="center">
+  <a href="https://wa.me//+2347045035241" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  </a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   </p>
+<p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+
+><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DBEDF7&center=true&random=false&width=435&lines=EXCEL-MD-V2;MUTLI+FUNCTIONAL;WHATSAPP+BOT;MADE+BY;EXCEL+ Amadi." alt="Typing SVG" /></a>
+
+<p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
+  <a
+ href="https://wa.me//+2347045035241"></a>
 </p>
 <p align="center">
-  <a href="https://www.youtube.com/@InnoxentTech">
-    <img alt=Support height="350" src="https://telegra.ph/file/03e49e6e2057568db8926.jpg"> 
-    </p>
-    <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=34&duration=3500&pause=1000&color=F7F7F7&center=true&width=435&lines=Welcome+To+SIGMA-MD;Multi-Device+Whatsapp+Bot;Developed+By+Maher+Zubair;Released+Date+1%2F10%2F2023." alt="Typing SVG" /></a>
-  </p>
-
+  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Whatsapp-363303?style=for-the-badge&logo=whatsapp&logoColor=c6c631"></img>
 <p align="center">
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/fork">
-    <img src="https://img.shields.io/github/forks/Maher-Zubair/SIGMA-MD?label=Fork&style=social">
-    
-    
-  <a href="https://github.com/Maher-Zubair/SIGMA-MD/stargazers"> 
-    <img src="https://img.shields.io/github/stars/Maher-Zubair?style=social">
+
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
   </a>
 
+<a aria-label="Join our chats" href="https://wa.me/2347045035241?text=Hi!! Excel, I need Your Help" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 </p>
 
 
-<p align="center">
-<a href="https://github.com/Maher-Zubair"><img title="Owner" src="https://img.shields.io/badge/Owner-Maher Zubair-black.svg?style=for-the-badge&logo=github" width="173px" height="29"></a>
 
- <a href="https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE">
-<img src='https://img.shields.io/github/license/Maher-Zubair/SIGMA-MD?color=%231e81b0&style=for-the-badge' width="143px">
-<p align="center"> 
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/CmY0THcJCUYEGxLJulhcRV" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    <a aria-label="Join our chats" href="https://chat.whatsapp.com/KFe2GEMBZ9eI1bpNVotZOW" target="_blank">
-   <img alt="whatsapp" src="https://img.shields.io/badge/Public Bot Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
-<p align="center"><img src="https://profile-counter.glitch.me/{Maher-Zubair}/count.svg" alt="Maher-Zubair :: Visitor's Count" /></p>
-
-## ***Bot Features***
----
-1. ***Game Menu.***
-2.  ***Multi-Themes Supported.***
-3.  ***Huge Logo Maker Menu.***
-4. ***Group Management Commands.***
-5.  ***Photo Editor Menu.***
-6.  ***Ban Protection.***
-7.  ***Multi-Device Supported.***
-8.  ***350+ Commands.***
-##
-
-
-
-
-
-
-## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
-1. ***Star⭐ The Repository First***
-2. ***Click [`FORK`](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
-3. ***Get SESSION ID  by [`Scanning QR Code`](https://replit.com/@SIGMA-Zubi/SIGMA-MD-QR?v=1). `Whatapp>Three dots>Linked Devices`***
-4. ***Get a Mongodb url From [`Mongodb,`](https://account.mongodb.com/)  Watch Tutorial  [`How To Get MongoDB Url`](https://youtu.be/HNj76uDT-uc?si=ObIoNZoP5gSZ8bSF).***
-5. ***Deploy on [`Heroku,`](https://mkk-eta.vercel.app/heroku.html)  Watch Tutorial 
- [`How To Deploy on Heroku`](https://youtu.be/7hhuzIkhVfE).***
-6. ***Deploy FREE on `Codespace,`  Watch Tutorial  [`How To Deploy on Codespace`](https://youtu.be/q59Fyn0Dq_k)***
-7. ***Deploy on [`Replit,`](https://replit.com/github/Maher-Zubair/SIGMA-MD)  Watch Tutorial  [`How To Deploy on Replit`](https://youtu.be/Ax4nO5PIHFA).***
-8. ***Install [`External Plugins`](https://github.com/Maher-Zubair/SIGMA-MD_Plugins).***
-##
-
-- ***If You Don't Have Any MongoDB Url Then, Use This Public one.!***
+- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
+## Deployment Methods
+**If You Don't Have Any MongoDB Url Then, Use This Public one.!**
 ```
-mongodb+srv://Maher-Zubair:SIGMA-MD@zubi.9g6b16y.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp
+mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i
 ```
-- *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue, Watch Tutorial  [`How To Get MongoDB Url`](https://youtu.be/HNj76uDT-uc?si=ObIoNZoP5gSZ8bSF).*
+- *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue.*
 ##
 
-***Subscribe MY YouTube Channel***
-</p>
-<p align="left">
-  <a href="https://www.youtube.com/@InnoxentTech?sub_confirmation=1">
-    <img alt=Support height="90" src="https://telegra.ph/file/eb6347e2764939fbbd35d.png"> 
-  </p>
+  ＊SET UP FOR EXCEL-MD-V2
+
     
- ## ```𝘛𝘢𝘱 𝘈𝘯𝘺 𝘓𝘖𝘎𝘖 𝘛𝘰 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘔𝘦```
- <p align="centre">
-  <a href="mailto:HELP_SIGMA-MD@outlook.com">
-    <img src="https://i.ibb.co/Kx8NXxT/mail-gmail-22737.png" align="centre" width="90" />
-   <a href="https://wa.me/923466319114?text=Hi%20Maher-Zubair%20Sir...%20I%20need%20some%20help%20in%20SIGMA-MD">
-    <img src="https://i.ibb.co/2MLVZwm/whatsapp-logo-icon-181644.png" align="centre" width="90" />
+➤FORK THE REPOSITORY (Repo) 
+    <br>
+<a href="https://github.com/Xcelsama/EXCEL-MD-V2"><img title="Excel-MD-V2" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
 
-##
 
-- ***Star ⭐ My Repo If You Like This Bot.***
+➤  GET SESSION  ID FOR EXCEL-MD-V2
+    
+    
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2QRSCAN?s=app' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-- ***The [SIGMA-MD](https://github.com/Maher-Zubair/SIGMA-MD) is Made Under The [`GPL-3 license`](https://github.com/Maher-Zubair/SIGMA-MD/blob/main/LICENCE).***
+＊DEPLOYMENT METHODS
 
-### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
-- ***[Suhail Tech Info](https://github.com/SuhailTechInfo)***
-- ***[Diegoson Tech](https://github.com/DiegosonTech)***
-- ***[Sam Pandey](https://github.com/SamPandey001)***
-##
-## ```𝘓𝘦𝘨𝘢𝘭 𝘋𝘪𝘴𝘤𝘭𝘢𝘪𝘮𝘦𝘳```
-- *I will only Assist You in Bot Deployment and Hosting, Not in Bot Development*
-- *If You Modify The Bot And Face Any Issue, I will not Responsible Because It is not Possible For Me To Help Everyone*
-- *This Bot is For Fun and Educational Purpose, I will not Responsible If You Spam and Misuse It*
-- ***Regards [Maher-Zubair](https://github.com/Maher-Zubair)***
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+
+- If You don't have a account in Codespace. Create a account.
+    <br>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+Now Deploy
+    <br>
+<a href='https://cautious-goldfish-4j79j464wgxqhwpw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+
+
+❍ᗪᗴᑭᒪOY ᗯITᕼ ᖇᗴᑭᒪIT
+
+- If You don't have a account in replit. Create a account.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
+Now Deploy
+    <br>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
+❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
+If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a></p>
+
+  Now Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
