@@ -6,10 +6,10 @@
           "type": "commonjs",
           "license": "GPL-3.0",
           "scripts": { 
-                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name SIGMA-MD",
-                    "stop": "pm2 stop SIGMA-MD"
+                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name EXCEL-MD-V2.0",
+                    "stop": "pm2 stop EXCEL-MD-V2.0 "
           },
-          "author": "Maher Zubair",
+          "author": "Excel Amadi",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",
