@@ -1,7 +1,7 @@
 {
-          "name": "SIGMA-MD",
+          "name": "EXCEL-MD-V2.0",
           "version": "1.2.7",
-          "description": "SIGMA-MD A Whatsapp Bot By Maher Zubair",
+          "description": "EXCEL-MD-V2 A Whatsapp Bot By Excel Amadi",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
