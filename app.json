@@ -76,7 +76,7 @@
   },
   "WELCOME_MESSAGE": {
     "description": "Enter the message here which you want to see when a new user joins a Group.",
-       "value": " @pp *_HI Dear @user_*\n*_Welcome In ♥️ @gname_*\n*_Read The Description CareFully_*\n\n\n*_Support Me By Subscribing_*\n*_",
+       "value": " @pp *_HI Dear @user_*\n*_Welcome In ♥️ @gname_*\n*_Read The Description CareFully_*\n\n\n*_Support Me By Subscribing_*\n*_https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X",
        "required" :false
   },
   "MONGODB_URI": {
@@ -110,17 +110,17 @@
 },
 "GNAME": {
   "description": "Add Your Group Name Here.You Can See in Most Commands",
-   "value": "sɪɢᴍᴀ ᴹᴰ-sᴜᴘᴘᴏʀᴛ",
+   "value": "Excel_md_support",
     "required": false
 },
 "WAURL": {
   "description": "Add Your Group Link.You Can See IT IN Most Commands",
-   "value": "https://chat.whatsapp.com/JM1yBMlveulDrAN22jHcWV",
+   "value": "https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p",
     "required": false
 },
 "BOT_NAME": {
   "description": "Add Your Own Bot Name",
-   "value": "sɪɢᴍᴀ ᴹᴰ"
+   "value": "Excel-md"
     
 },
 "REMOVE_BG_KEY": {
